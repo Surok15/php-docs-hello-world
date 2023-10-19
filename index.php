@@ -1,3 +1,3 @@
 <?php
 
-echo "coucou bebe rdv 13h";
+echo "Ceci est un test";
